@@ -1,7 +1,7 @@
 body {
     color: #7a78ff;
     margin: 0;
-    /* text-align: center; */
+    
     font-family: 'Merriweather', serif;
   }
   
@@ -42,7 +42,7 @@ body {
   }
   
   a {
-    /* color: #11999E; */
+   
     color: #eee;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
@@ -54,19 +54,19 @@ body {
     color: #fdfdfd;
   }
   
-  .top-container {
+  .1container {
     background-color: #606eff;
     position: relative;
     padding-top: 100px;
     text-align: center;
   }
   
-  .middle-container {
+  .2container {
     margin: 100px 0;
     text-align: center;
   }
   
-  .bottom-container {
+  .3container {
     background-color: #6961ff;
     padding: 50px 0 20px;
     text-align: center;
